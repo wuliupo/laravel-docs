@@ -1,3 +1,5 @@
-# Laravel ÖĞÎÄÎÄµµÀëÏß°æ
+# Laravel ä¸­æ–‡æ–‡æ¡£ç¦»çº¿ç‰ˆ
 
 http://www.golaravel.com/post/laravel-documents-offline-package/
+
+http://www.laravel.com/api/
